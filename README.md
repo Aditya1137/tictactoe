@@ -11,7 +11,8 @@ Game Reset: Option to reset the game and start a new round.
 How to Play
 Clone the repository to your local machine.
 
-git clone https://github.com/your-username/tic-tac-toe.git
+Git clone https://github.com/Aditya1137/tictactoe/tree/main
+
 Compile the Java files.
 
 javac TicTacToe.java
