@@ -1,4 +1,6 @@
 Tic-Tac-Toe Game 🎮
+
+
 Welcome to the Tic-Tac-Toe game repository! This project provides a classic implementation of the timeless Tic-Tac-Toe game in Java, offering a fun and interactive experience for players of all ages.
 
 Features 🌟
@@ -12,12 +14,8 @@ How to Play 🚀
 Clone the Repository: 🛠️ Clone the repository to your local machine.
 sh
 Copy code
-git clone https://github.com/your-username/tic-tac-toe.git
+git clone [https://github.com/your-username/tic-tac-toe.git](https://github.com/Aditya1137/tictactoe)
 Compile and Run: 🚀 Compile the Java files and run the game.
-sh
-Copy code
-javac TicTacToe.java
-java TicTacToe
 Enjoy the Game: 🎉 Follow the prompts to make your moves and engage in exciting matches against your opponent.
 Screenshots 📸
 
