@@ -17,7 +17,17 @@ Copy code
 git clone [https://github.com/your-username/tic-tac-toe.git](https://github.com/Aditya1137/tictactoe)
 Compile and Run: 🚀 Compile the Java files and run the game.
 Enjoy the Game: 🎉 Follow the prompts to make your moves and engage in exciting matches against your opponent.
+
+
 Screenshots 📸
+
+
+<img width="587" alt="Screenshot 2024-02-22 152551" src="https://github.com/Aditya1137/tictactoe/assets/131518897/8547d200-49b8-46af-918d-d0fef35bb5be">
+
+<img width="590" alt="Screenshot 2024-02-22 152402" src="https://github.com/Aditya1137/tictactoe/assets/131518897/2acb88d0-d744-46c8-a908-ef88fa200512">
+
+
+
 
 Future Enhancements 🚀
 Graphical User Interface (GUI): 🖥️ Implement a sleek and intuitive GUI for a more immersive gameplay experience.
